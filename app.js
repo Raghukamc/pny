@@ -1,5 +1,5 @@
 //nodejs
-//testng merging and rebase
+//testng merging and rebas
 const express = require('express');
 const morgan = require('morgan')
 const path = require('path');
